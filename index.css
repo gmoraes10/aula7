@@ -1,0 +1,12 @@
+body{
+    background-color: black;    
+}
+h1{
+    text-decoration: aliceblue;
+    text-align: center;
+    size: 32px;
+}
+p{
+    text-decoration: red;
+    size: 16px;
+}
